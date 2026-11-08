@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+data/s1_vectors.npy
+data/s1_chunks.json
+.DS_Store

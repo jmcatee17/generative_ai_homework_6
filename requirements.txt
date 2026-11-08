@@ -1,0 +1,16 @@
+streamlit>=1.58
+pandas
+numpy
+python-dotenv
+plotly
+# LangChain / LangGraph (same langchain-core + langchain-openai as the class templates)
+langchain-core>=1.0
+langchain-openai>=1.0
+langchain-text-splitters
+langgraph>=1.0
+# RAG + tools
+beautifulsoup4
+lxml
+requests
+ddgs
+yfinance
